@@ -13,9 +13,9 @@ function App() {
             <FloatingBlobs />
             <Navbar />
             <Hero />
+            <Reviews />
             <Services />
             <Gallery />
-            <Reviews />
             <Contact />
             <Footer />
         </div>
